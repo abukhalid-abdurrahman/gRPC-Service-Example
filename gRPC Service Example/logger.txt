@@ -1,0 +1,291 @@
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Application is shutting down...
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 GET https://localhost:5001/  
+[GET REQUEST]: / [FROM: ::1]
+Request finished in 12.892ms 200 
+Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+[GET REQUEST]: /FAVICON.ICO [FROM: ::1]
+Request finished in 6.8093ms 200 
+Request starting HTTP/2 POST https://localhost:5001/greet.Greeter/SayHello application/grpc 
+[POST REQUEST]: /GREET.GREETER/SAYHELLO [FROM: ::1]
+Request finished in 7.1291ms 200 
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/greet.Greeter/SayHello application/grpc 
+[POST REQUEST]: /GREET.GREETER/SAYHELLO [FROM: ::1]
+Request finished in 14.8367ms 200 
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/greet.Greeter/SayHello application/grpc 
+[POST REQUEST]: /GREET.GREETER/SAYHELLO [FROM: ::1]
+Request finished in 18.7508ms 200 
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/greet.Greeter/SayHello application/grpc 
+Executing endpoint 'gRPC - /greet.Greeter/SayHello'
+Executed endpoint 'gRPC - /greet.Greeter/SayHello'
+Request finished in 157.7804ms 200 application/grpc
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/greet.Greeter/SayHello application/grpc 
+Executing endpoint 'gRPC - /greet.Greeter/SayHello'
+Executed endpoint 'gRPC - /greet.Greeter/SayHello'
+Request finished in 100.5696ms 200 application/grpc
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/greet.Greeter/SayHello application/grpc 
+Executing endpoint 'gRPC - /greet.Greeter/SayHello'
+Executed endpoint 'gRPC - /greet.Greeter/SayHello'
+Request finished in 104.5955ms 200 application/grpc
+Application is shutting down...
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Application is shutting down...
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Application is shutting down...
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Application is shutting down...
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Application is shutting down...
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Create application/grpc 
+Executing endpoint 'gRPC - Unimplemented service'
+Service 'user.User' is unimplemented.
+Executed endpoint 'gRPC - Unimplemented service'
+Request finished in 57.3237ms 200 application/grpc
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Create application/grpc 
+Executing endpoint 'gRPC - Unimplemented service'
+Service 'user.User' is unimplemented.
+Executed endpoint 'gRPC - Unimplemented service'
+Request finished in 40.034ms 200 application/grpc
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Create application/grpc 
+Executing endpoint 'gRPC - /user.User/Create'
+Executed endpoint 'gRPC - /user.User/Create'
+Request finished in 142.7378ms 200 application/grpc
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Create application/grpc 
+Executing endpoint 'gRPC - /user.User/Create'
+Executed endpoint 'gRPC - /user.User/Create'
+Request finished in 104.645ms 200 application/grpc
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Create application/grpc 
+Executing endpoint 'gRPC - /user.User/Create'
+Executed endpoint 'gRPC - /user.User/Create'
+Request finished in 254.9498ms 200 application/grpc
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Create application/grpc 
+Executing endpoint 'gRPC - /user.User/Create'
+Executed endpoint 'gRPC - /user.User/Create'
+Request finished in 253.5765ms 200 application/grpc
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Create application/grpc 
+Executing endpoint 'gRPC - /user.User/Create'
+Executed endpoint 'gRPC - /user.User/Create'
+Request finished in 152.4299ms 200 application/grpc
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Create application/grpc 
+Executing endpoint 'gRPC - /user.User/Create'
+Executed endpoint 'gRPC - /user.User/Create'
+Request finished in 103.2107ms 200 application/grpc
+Request starting HTTP/2 POST https://localhost:5001/user.User/Create application/grpc 
+Executing endpoint 'gRPC - /user.User/Create'
+Executed endpoint 'gRPC - /user.User/Create'
+Request finished in 9.0952ms 200 application/grpc
+Request starting HTTP/2 POST https://localhost:5001/user.User/Delete application/grpc 
+Executing endpoint 'gRPC - /user.User/Delete'
+Executed endpoint 'gRPC - /user.User/Delete'
+Request finished in 12.7603ms 200 application/grpc
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Create application/grpc 
+Executing endpoint 'gRPC - /user.User/Create'
+Executed endpoint 'gRPC - /user.User/Create'
+Request finished in 105.4027ms 200 application/grpc
+Request starting HTTP/2 POST https://localhost:5001/user.User/Create application/grpc 
+Executing endpoint 'gRPC - /user.User/Create'
+Executed endpoint 'gRPC - /user.User/Create'
+Request finished in 21.3433ms 200 application/grpc
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Delete application/grpc 
+Executing endpoint 'gRPC - /user.User/Delete'
+Executed endpoint 'gRPC - /user.User/Delete'
+Request finished in 107.8763ms 200 application/grpc
+Request starting HTTP/2 POST https://localhost:5001/user.User/Delete application/grpc 
+Executing endpoint 'gRPC - /user.User/Delete'
+Executed endpoint 'gRPC - /user.User/Delete'
+Request finished in 9.4298ms 200 application/grpc
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Read application/grpc 
+Executing endpoint 'gRPC - /user.User/Read'
+Executed endpoint 'gRPC - /user.User/Read'
+Request finished in 124.0411ms 200 application/grpc
+Application is shutting down...
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Update application/grpc 
+Executing endpoint 'gRPC - /user.User/Update'
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Update application/grpc 
+Executing endpoint 'gRPC - /user.User/Update'
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Update application/grpc 
+Executing endpoint 'gRPC - /user.User/Update'
+Now listening on: https://localhost:5001
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Faridun's Projects\Faridun's\Back-End\ASP\gRPC Service Example\gRPC Service Example
+Request starting HTTP/2 POST https://localhost:5001/user.User/Update application/grpc 
+Executing endpoint 'gRPC - /user.User/Update'
+Executed endpoint 'gRPC - /user.User/Update'
+Request finished in 103.0545ms 200 application/grpc
+Application is shutting down...
